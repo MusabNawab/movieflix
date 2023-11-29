@@ -1,17 +1,8 @@
-# movie_flix
 
-A new Flutter project.
+# MovieFlix
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### APK File: [click here](https://drive.google.com/file/d/1xNp40MXpIMdFzU0fK1UfrKm2UwXUs_bQ/view?usp=sharing)
 
-A few resources to get you started if this is your first Flutter project:
+### App Video: [click here](https://drive.google.com/file/d/11ZVn0jfU_PGLkdr4jDz3cOYLd0X0Wluq/view?usp=sharing)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# movieflix
